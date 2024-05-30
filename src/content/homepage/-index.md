@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Protege tu información con nuestra solución de seguridad de vanguardia"
+  content: "Nuestra propuesta innovadora combina seguridad lógica y física, aplicando el modelo CIA y potentes algoritmos de encriptación como AES y RSA. ¡Descubre cómo podemos ayudarte!."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "Conoce más"
+    link: "/about"
 
 # Features
 features:

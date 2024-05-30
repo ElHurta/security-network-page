@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Sobre esta página"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/shield-question.svg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Esta página describe es una propuesta de montaje de una red de comunicaciones con seguridad lógica y física para un trabajo de universidad. La información aquí es usada únicamente para fines académicos.
