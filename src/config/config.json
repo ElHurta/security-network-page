@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Seguridad de la Información",
-    "base_url": "https://astroplate.netlify.app",
+    "base_url": "https://security-network-page.vercel.app/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -29,8 +29,8 @@
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "https://github.com/zeon-studio/astroplate"
+    "label": "Aprende más",
+    "link": "/about"
   },
 
   "disqus": {
@@ -40,7 +40,7 @@
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
+    "meta_author": "Juan Hurtado y David Ravelo",
     "meta_image": "/images/og-image.png",
     "meta_description": "astro and tailwind boilerplate"
   }

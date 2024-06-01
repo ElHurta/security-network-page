@@ -20,7 +20,7 @@ features:
       - "Disponibilidad: Nos aseguramos de que la información esté accesible cuando sea necesario para las operaciones críticas del negocio."
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Aprende más"
       link: "#"
 
   - title: "Algoritmos de Encriptación Robustos"
@@ -32,7 +32,7 @@ features:
       - "Implementación en diversos entornos: Desde el tráfico de red en WAN y LAN hasta la protección de datos almacenados."
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Conoce el proyecto"
       link: "https://github.com/zeon-studio/astroplate"
 
   - title: "Enfoque Integral de Seguridad"
