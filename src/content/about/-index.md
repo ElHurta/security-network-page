@@ -3,7 +3,7 @@ title: "Sobre esta página"
 meta_title: "About"
 description: "Aquí encontrarás información sobre el propósito y contenido de esta página."
 image: "/images/shield-question.svg"
-about_project: "Esta página describe es una propuesta de montaje de una red de comunicaciones con seguridad lógica y física para un trabajo de universidad. La información aquí es usada únicamente para fines académicos."
+about_project: "Esta página describe una propuesta de montaje de una red de comunicaciones con seguridad lógica y física para un trabajo de universidad. La información aquí es usada únicamente para fines académicos."
 draft: false
 ---
 

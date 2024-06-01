@@ -9,6 +9,10 @@
       "url": "/about"
     },
     {
+      "name": "Fases",
+      "url": "/phases"
+    },
+    {
       "name": "Autores",
       "url": "/authors"
     }

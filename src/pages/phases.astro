@@ -1,0 +1,44 @@
+---
+import ImageMod from "@/components/ImageMod.astro";
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import { getEntry } from "astro:content";
+
+const phases = await getEntry("phases", "-index");
+const { Content } = await phases.render();
+const { title, description, meta_title, image } = phases.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <section class="section pt-7">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="md:col-10 lg:col-10">
+          {
+            image && (
+              <ImageMod
+                class="mx-auto mb-6 rounded-lg"
+                src={image}
+                width={200}
+                height={200}
+                alt={title}
+                format="webp"
+              />
+            )
+          }
+          <div class="text-center mb-12">
+            <h2 set:html={markdownify(title)} class="h3 mb-4" />
+          </div>
+          <div class="content">
+            <Content />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>
