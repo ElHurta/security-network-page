@@ -6,7 +6,9 @@
 
 <p align=center>Si encuentras este proyecto útil, por favor dale una ⭐ para mostrar tu apoyo.</p>
 
-<h2 align="center"> <a target="_blank" href="https://tu-url-de-demo.com">👀 Demo</a></h2>
+<p align=center>
+  <a href="https://github.com/zeon-studio/astroplate">Este proyecto está construido utilizando la plantilla Astroplate de Zeon Studio. ¡Visítalos para más plantillas geniales!</a>
+</p
 
 <p align=center>
   <a href="https://github.com/withastro/astro/releases/tag/astro%404.3.2" alt="Contributors">
