@@ -6,7 +6,7 @@ import { getEntry } from "astro:content";
 
 const about = await getEntry("about", "-index");
 const { Content } = await about.render();
-const { title, description, meta_title, image } = about.data;
+const { title, description, meta_title, image, about_project } = about.data;
 ---
 
 <Base
@@ -15,10 +15,10 @@ const { title, description, meta_title, image } = about.data;
   description={description}
   image={image}
 >
-  <section class="section-sm">
+  <section class="section pt-7">
     <div class="container">
       <div class="row justify-center">
-        <div class="text-center md:col-10 lg:col-7">
+        <div class="md:col-10 lg:col-10">
           {
             image && (
               <ImageMod
@@ -31,7 +31,10 @@ const { title, description, meta_title, image } = about.data;
               />
             )
           }
-          <h2 set:html={markdownify(title)} class="h3 mb-6" />
+          <div class="text-center mb-12">
+            <h2 set:html={markdownify(title)} class="h3 mb-4" />
+            <div set:html={markdownify(about_project)} class="text-lg" />
+          </div>
           <div class="content">
             <Content />
           </div>
