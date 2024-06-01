@@ -8,7 +8,11 @@
 
 <p align=center>
   <a href="https://github.com/zeon-studio/astroplate">Este proyecto está construido utilizando la plantilla Astroplate de Zeon Studio. ¡Visítalos para más plantillas geniales!</a>
-</p
+</p>
+
+<p align=center>
+  <a href="https://security-network-page.vercel.app"/>Visita la página</a>
+</p>
 
 <p align=center>
   <a href="https://github.com/withastro/astro/releases/tag/astro%404.3.2" alt="Contributors">
