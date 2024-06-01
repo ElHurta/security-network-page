@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "Astroplate",
+    "title": "Seguridad de la Información",
     "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo": "/images/new-logo.png",
+    "logo_darkmode": "/images/new-logo-dark.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "Seguridad"
   },
 
   "settings": {

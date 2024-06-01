@@ -2,8 +2,8 @@
 # Banner
 banner:
   title: "Protege tu información con nuestra solución de seguridad de vanguardia"
-  content: "Nuestra propuesta innovadora combina seguridad lógica y física, aplicando el modelo CIA y potentes algoritmos de encriptación como AES y RSA. ¡Descubre cómo podemos ayudarte!."
-  image: "/images/banner.png"
+  content: "Nuestra propuesta innovadora combina seguridad lógica y física, aplicando el modelo CIA y potentes algoritmos de encriptación como AES y RSA."
+  image: "/images/security-bro.png"
   button:
     enable: true
     label: "Conoce más"
@@ -11,41 +11,38 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Modelo de Seguridad CIA"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Nuestra propuesta se basa en el modelo de seguridad CIA, que abarca los principios fundamentales de la protección de la información:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Confidencialidad: Garantizamos que solo las personas autorizadas tengan acceso a la información sensible."
+      - "Integridad: Protegemos los datos contra modificaciones no autorizadas, asegurando su precisión y confiabilidad."
+      - "Disponibilidad: Nos aseguramos de que la información esté accesible cuando sea necesario para las operaciones críticas del negocio."
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Algoritmos de Encriptación Robustos"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Utilizamos algoritmos de encriptación de vanguardia para proteger tus datos en tránsito y en reposo:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "AES (Advanced Encryption Standard): El estándar de cifrado más utilizado y confiable de la industria."
+      - "RSA (Rivest-Shamir-Adleman): Algoritmo de cifrado asimétrico ideal para firmas digitales y distribución segura de claves."
+      - "Implementación en diversos entornos: Desde el tráfico de red en WAN y LAN hasta la protección de datos almacenados."
     button:
       enable: true
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Enfoque Integral de Seguridad"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Nuestro enfoque abarca todos los aspectos críticos de la seguridad de la información en redes de comunicación:"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Identificación y mitigación de amenazas y riesgos específicos para tu entorno."
+      - "Implementación de controles y planes de recuperación para asegurar la continuidad del negocio."
+      - "Cumplimiento de normativas y estándares de seguridad como ISO 27000."
+      - "Equipo de expertos dedicado a mantenerte protegido frente a las últimas amenazas."
     button:
       enable: false
       label: ""
