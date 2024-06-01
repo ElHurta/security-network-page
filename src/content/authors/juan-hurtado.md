@@ -13,4 +13,4 @@ social:
     link: https://www.linkedin.com/in/juan-hurtado-0244b5188/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Desarrollador de Software experimentado con más de 4 años de experiencia.

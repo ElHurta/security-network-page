@@ -2,7 +2,7 @@
 title: "Fases"
 meta_title: "Phases"
 description: "Aquí se describen las etapas clave de la propuesta de seguridad de la información."
-image: "/images/shield-question.svg"
+image: "/images/refresh-cw.svg"
 about_project: "Esta página describe las etapas clave de la propuesta de seguridad de la información. La información aquí es usada únicamente para fines académicos."
 draft: false
 ---

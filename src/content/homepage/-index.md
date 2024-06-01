@@ -4,6 +4,7 @@ banner:
   title: "Protege tu información con nuestra solución de seguridad de vanguardia"
   content: "Nuestra propuesta innovadora combina seguridad lógica y física, aplicando el modelo CIA y potentes algoritmos de encriptación como AES y RSA."
   image: "/images/security-bro.png"
+  image_link: "https://storyset.com/people"
   button:
     enable: true
     label: "Conoce más"

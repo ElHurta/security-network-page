@@ -13,4 +13,4 @@ social:
     link: https://www.linkedin.com/in/david-fernando-ravelo-garavito-019399258/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Estudiante de ingeniería de sistemas (octavo semestre) en la Universidad Distrital.
