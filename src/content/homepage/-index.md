@@ -34,7 +34,7 @@ features:
     button:
       enable: true
       label: "Conoce el proyecto"
-      link: "https://github.com/zeon-studio/astroplate"
+      link: "/phases"
 
   - title: "Enfoque Integral de Seguridad"
     image: "/images/service-3.png"
